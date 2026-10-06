@@ -1,0 +1,9 @@
+# local scratch / staging area, never published
+.staging/
+
+# editor and OS noise
+*.swp
+*~
+Thumbs.db
+desktop.ini
+.DS_Store
